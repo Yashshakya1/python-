@@ -6,6 +6,7 @@
 # result = type(Mathes)
 # print(result)
 
+# this is type casting
 
 a = "31.5"
 b = float(a)

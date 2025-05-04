@@ -7,3 +7,4 @@ print(a+b)
 
 print("this is a remainder ;-",a%b)
 print("this is a quiescent ;-",a/b)
+print("this is logical operater :-",a>b)

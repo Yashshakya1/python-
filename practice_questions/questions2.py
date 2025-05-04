@@ -1,5 +1,13 @@
-# Q2. typecasting 
+# Q2. typecasting & typefunction 
 
-Mathes = 87.555
-result = type(Mathes)
-print(result)
+# this is a type function
+
+# Mathes = 87.555
+# result = type(Mathes)
+# print(result)
+
+
+a = "31.5"
+b = float(a)
+t = type(b)
+print(t)

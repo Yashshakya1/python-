@@ -14,6 +14,11 @@ string = input("enter the name :-")
 print(string.replace(string," noob"))
 
 # 5. split a string into a substring
-a = "Hello, World!"
+a = "Hello, World !"
 b = a.split(",")
 print(b)
+
+# 6 startswith / endswith
+sw = input("enter your string sw:-")
+print(sw.startswith("ta"))
+print(sw.endswith("sh"))

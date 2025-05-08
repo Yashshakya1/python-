@@ -10,4 +10,4 @@ print(anythink[1])
 # list also used as a string slice for ex:-
 
 print("here it is a sliceing in the list :-",cars[:3])
-print("here it is a sliceing in the list :-",cars[-5:-1])
+print("here it is a sliceing in the list :-",cars[-5:])
